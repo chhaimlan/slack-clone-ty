@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+# hosting website
+
+# https://slack-clone-yt-42e35.web.app/
+
 In the project directory, you can run:
 
 ### `npm start`
